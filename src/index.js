@@ -9,7 +9,10 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <App />
-    <a href="https://github.com/Ronel3/shecodes-react-app" target="_blank">
+    <a
+      href="https://github.com/Ronel3/shecodes-react-app"
+      rel="noopener noreferrer"
+    >
       Ronel Simelane GitHub
     </a>
   </React.StrictMode>
